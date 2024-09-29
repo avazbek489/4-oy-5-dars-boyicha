@@ -151,17 +151,17 @@
 // alert("A: " + A + "\nB: " + B);
 
 // // 12-SAVOL JAVOBI
-let num1 = +prompt("1-sonni kiriting:");
-let num2 = +prompt("2-sonni kiriting:");
-let num3 = +prompt("3-sonni kiriting:");
-let res = num1;
-if (num2 < res) {
-  res = num2;
-}
-if (num3 < res) {
-  res = num3;
-}
-alert("Eng kichik son:" + res);
+// let num1 = +prompt("1-sonni kiriting:");
+// let num2 = +prompt("2-sonni kiriting:");
+// let num3 = +prompt("3-sonni kiriting:");
+// let res = num1;
+// if (num2 < res) {
+//   res = num2;
+// }
+// if (num3 < res) {
+//   res = num3;
+// }
+// alert("Eng kichik son:" + res);
 
 // // 13-SAVOL JAVOBI
 // // 14-SAVOL JAVOBI
