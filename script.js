@@ -331,6 +331,38 @@
 // alert(res);
 // // 24-SAVOL JAVOBI
 
+// let A = +prompt("A sonni kiriting:");
+// let B = +prompt("B sonni kiriting:");
+// let res;
+// if (A % 2 !== 0 || B % 2 !== 0) {
+//   res = true;
+// } else {
+//   res = false;
+// }
+// alert(res);
 
 // // 25-SAVOL JAVOBI
+
+// let A = +prompt("A sonni kiriting");
+// let B = +prompt("B sonni kiriting");
+// let res;
+
+// if ((A % 2 !== 0 && B % 2 === 0) || (A % 2 !== 0 && B % 2 !== 0)) {
+//   res = true;
+// } else {
+//   res = false;
+// }
+
+// alert(res);
+
 // // 26-SAVOL JAVOBI
+// let A = prompt("A sonini kiriting");
+// let B = prompt("B sonini kiriting");
+// let res;
+
+// if ((A % 2 !== 0 && B % 2 === 0) || (A % 2 === 0 && B % 2 !== 0)) {
+//     res = true;
+// } else {
+//     res = false;
+// }
+// alert(res);
