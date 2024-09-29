@@ -164,16 +164,173 @@
 // alert("Eng kichik son:" + res);
 
 // // 13-SAVOL JAVOBI
+// let num1 = +prompt("1-sonni kiriting:");
+// let num2 = +prompt("2-sonni kiriting:");
+// let num3 = +prompt("3-sonni kiriting:");
+
+// let med;
+
+// if ((num1 >= num2 && num1 <= num3) || (num1 <= num2 && num1 >= num3)) {
+//     med = num1;
+// } else if ((num2 >= num1 && num2 <= num3) || (num2 <= num1 && num2 >= num3)) {
+//     med = num2;
+// } else {
+//     med = num3;
+// }
+// alert("O'rtacha kiritilgan son: " + med);
+
 // // 14-SAVOL JAVOBI
+
+// let num1 = +prompt("1-sonni kiriting:");
+// let num2 = +prompt("2-sonni kiriting:");
+// let num3 = +prompt("3-sonni kiriting:");
+// let min = num1;
+// let max = num1;
+// if (num2 < min) {
+//   min = num2;
+// }
+// if (num2 > max) {
+//   max = num2;
+// }
+// if (num3 < min) {
+//   min = num3;
+// }
+// if (num3 > max) {
+//   max = num3;
+// }
+// alert("Eng kichik son: " + min + "\nEng katta son: " + max);
+
 // // 15-SAVOL JAVOBI
+// let num1 = +prompt("1-sonni kiriting:");
+// let num2 = +prompt("2-sonni kiriting:");
+// let num3 = +prompt("3-sonni kiriting:");
+
+// let max = 0;
+// let res;
+
+// if (num1 + num2 > max) {
+//   max = num1 + num2;
+//   res = num1 + " va " + num2;
+// }
+
+// if (num1 + num3 > max) {
+//   max = num1 + num3;
+//   res = num1 + " va " + num3;
+// }
+
+// if (num2 + num3 > max) {
+//   max = num2 + num3;
+//   res = num2 + " va " + num3;
+// }
+
+// alert("Eng katta yigindi: " + res + "\nYigindisi: " + max);
 // // 16-SAVOL JAVOBI
+// let A = +prompt("A uchun qiymat kiriting:");
+// let res;
+
+// if (A > 0) {
+//   res = true;
+// } else {
+//   res = false;
+// }
+
+// alert(res);
+
 // // 17-SAVOL JAVOBI
+
+// let A = +prompt("A uchun qiymat kiriting:");
+// let res;
+
+// if (A % 2 == 1) {
+//   res = "toq";
+// } else {
+//   res = "toq emas";
+// }
+
+// alert(res);
+
 // // 18-SAVOL JAVOBI
+
+// let A = +prompt("A uchun qiymat kiriting:");
+// let res;
+// if (A % 2 == 0) {
+//   res = "juft";
+// } else {
+//   res = "juft emas";
+// }
+
+// alert(res);
+
 // // 19-SAVOL JAVOBI
+// let A = +prompt("A sonni kiriting");
+// let B = +prompt("B sonni kiriting");
+// let res;
+
+// if (A > 2 && B <= 3) {
+//   res = true;
+// } else {
+//   res = false;
+// }
+
+// alert(res);
+
 // // 20-SAVOL JAVOBI
+
+// let A = +prompt("A sonni kiriting");
+// let B = +prompt("B sonni kiriting");
+// let res;
+// if (A >= 0 && B < -2) {
+//   res = true;
+// } else {
+//   res = false;
+// }
+
+// alert(res);
+
 // // 21-SAVOL JAVOBI
+
+// let A = +prompt("A sonni kiriting:");
+// let B = +prompt("B sonni kiriting:");
+// let C = +prompt("C sonni kiriting:");
+// let res;
+
+// if (A <= B && B <= C) {
+//   res = true;
+// } else {
+//   res = false;
+// }
+
+// alert(res);
+
 // // 22-SAVOL JAVOBI
+
+// let A = +prompt("A sonni kiriting:");
+// let B = +prompt("B sonni kiriting:");
+// let C = +prompt("C sonni kiriting:");
+// let res;
+
+// if ((B > A && B < C) || (B < A && B > C)) {
+//   res = true;
+// } else {
+//   res = false;
+// }
+
+// alert(res);
+
 // // 23-SAVOL JAVOBI
+// let A = +prompt("A sonni kiriting:");
+// let B = +prompt("B sonni kiriting:");
+// let res;
+
+// if (A % 2 !== 0 && B % 2 !== 0) {
+//   res = true;
+// } else {
+//   res = false;
+// }
+
+// alert(res);
 // // 24-SAVOL JAVOBI
+
+
 // // 25-SAVOL JAVOBI
 // // 26-SAVOL JAVOBI
